@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Data;
 
 namespace USC.GISResearchLab.Geocoding.Core.Metadata.FeatureMatchingResults
 {

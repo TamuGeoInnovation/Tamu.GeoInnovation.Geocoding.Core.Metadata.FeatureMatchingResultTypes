@@ -1,0 +1,4 @@
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Metadata.FeatureMatchingResultTypes\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureMatchingResultTypes.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Metadata.FeatureMatchingResultTypes\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureMatchingResultTypes.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Metadata.FeatureMatchingResultTypes\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureMatchingResultTypes.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Metadata.FeatureMatchingResultTypes\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Metadata.FeatureMatchingResultTypes.pdb
