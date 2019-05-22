@@ -24,6 +24,7 @@ namespace USC.GISResearchLab.Geocoding.Core.Metadata.FeatureMatchingResults
         Unknown,
         GPS,
         BuildingCentroid,
+        Building,
         BuildingDoor,
         Parcel,
         StreetSegment,
