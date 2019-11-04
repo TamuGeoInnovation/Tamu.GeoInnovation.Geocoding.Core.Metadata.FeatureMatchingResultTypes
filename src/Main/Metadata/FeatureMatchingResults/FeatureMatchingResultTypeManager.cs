@@ -52,5 +52,5 @@ namespace USC.GISResearchLab.Geocoding.Core.Metadata.FeatureMatchingResults
         Unmatchable,
     }
 
-    
+
 }
